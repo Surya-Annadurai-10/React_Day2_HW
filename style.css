@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.main-container{
+    width: 90%;
+    height: 45vh;
+    /* background-color: green; */
+    margin: auto;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-direction: column;
+    padding: 1rem;
+}
+
+.para{
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+
+
+.tag{
+    background-color: green;
+    color: white;
+    padding: 1rem;
+}
